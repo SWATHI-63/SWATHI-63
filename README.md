@@ -111,11 +111,10 @@
 
 <td>
 
-<a  href="https://github.com/SWATHI-63/github-readme-stats">
-
-<img  height=200  align="center"  src="https://github-readme-stats.vercel.app/api?username=SWATHI-63&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true"  />
-
+<a href="https://github.com/SWATHI-63/github-readme-stats">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=SWATHI-63&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 </a>
+
 
 </td>
 
