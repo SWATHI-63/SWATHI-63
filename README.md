@@ -37,12 +37,6 @@
 
 </td>
 
-<td  align="center">
-
-<img  width="200"  src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png"  alt="Profile Pic"/>
-
-</td>
-
 </tr>
 
 </table>
