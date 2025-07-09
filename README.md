@@ -110,9 +110,9 @@
 <tr>
 
 <td>
- <a href="https://github.com/SWATHI-63/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SWATHI-63&repo=github-readme-stats&theme=buefy" />
-</a>
+  <a href="https://github.com/SWATHI-63/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SWATHI-63&theme=synthwave&show_icons=true&include_all_commits=true&hide_border=true" />
+  </a>
 </td>
 
 <td>
