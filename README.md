@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/swathi.png" alt="swathi" width="100%">
+  <img src="./assets/swathi-image.png" alt="swathi" width="100%">
 </div>
 <h1  align="center"> Welcome to the &lt Swathi &gt Codebase  <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">  </h1>
 
